@@ -1,0 +1,1 @@
+ionic start --type=ionic-angular NotableNotes3 blank
